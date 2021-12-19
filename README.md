@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Pallavi Pandey. 
 
-<!--
+
 **Pallavi-IITM-2021/Pallavi-IITM-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a student at @IIT Madras 
+- 🌱 I’m currently learning Data Science and Programming.
+- 👯 I’m looking to collaborate on Data Science projecs
+- 🤔 I’m looking for help with Programming lanuages.
+- 💬 Ask me about C++, Python, HTML, CSS
+- 📫 How to reach me: Mail at pallavipandey181@gmail.com
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: Listeing music with coding ,doubles your speed and intrest.
+
