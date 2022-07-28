@@ -11,5 +11,5 @@
 - 💬 Ask me about C++, Python, HTML, CSS
 - 📫 How to reach me: Mail at pallavipandey181@gmail.com
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: Listeing music with coding ,doubles your speed and intrest.
+- ⚡ Fun fact: Listeing music with coding ,doubles your speed and interest.
 
