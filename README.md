@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently a student at @IIT Madras 
 - 🌱 I’m currently learning Data Science and Programming.
-- 👯 I’m looking to collaborate on Data Science projecs
-- 🤔 I’m looking for help with Programming lanuages.
-- 💬 Ask me about C++, Python, HTML, CSS
+- 👯 I’m looking to collaborate on Data Science projects
+- 🤔 I’m looking for help with Programming languages.
+- 💬 Ask me about Java, Web Development, DBMS, and Python.
 - 📫 How to reach me: Mail at pallavipandey181@gmail.com
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: Listeing music with coding ,doubles your speed and interest.
+- ⚡ Fun fact: Listening to music with coding, doubles your speed and interest.
 
