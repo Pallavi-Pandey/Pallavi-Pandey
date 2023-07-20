@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Pallavi Pandey. 
 
 
-**Pallavi-IITM-2021/Pallavi-IITM-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pallavi-Pandey/Pallavi-Pandey** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently a student at @IIT Madras 
