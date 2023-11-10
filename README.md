@@ -17,7 +17,7 @@
 </p>
 
 
-Hey there! I love to read, speak, and discuss trending tech, space, and science. 
+Hello there! I love to read, speak, and discuss trending tech, space, and science. 
 
 -  I’m currently pursuing a BS in Data Science and Programming from **IIT Madras**
 -  I want to collaborate on any Python-based open-source or Data Science Project.
