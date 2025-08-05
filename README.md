@@ -1,151 +1,123 @@
-<h1 align="center">Hi, I'm Pallavi Pandey 👋</h1>
+<h1 align="center">Hi , I'm Pallavi Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-✨ **Software Developer | Data Science Enthusiast | Learner** ✨  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=9D7DFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Data+Science+Enthusiast;ML+%26+DL+Explorer;IIT+Madras+BS+Student;Open+Source+Contributor;Loves+Python+%26+LLMs"></a>
 </p>
 
-<p align="center">
-	<a href="https://github.com/Pallavi-Pandey">
-		<img src="https://img.shields.io/github/followers/Pallavi-Pandey?label=Followers&style=social" alt="Followers" />
-	</a>
-	<a href="mailto:pallavipandey181@gmail.com">
-		<img src="https://img.shields.io/badge/Email-pallavipandey181@gmail.com-ff69b4?style=social&logo=gmail" alt="Email" />
-	</a>
-	<a href="https://pallavipandey.me" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-pallavipandey.me-00A86B?style=social&logo=webflow" alt="Portfolio" />
-	</a>
+<br>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=pallavi-pandey&label=Profile%20views&color=8B5CF6&style=plastic?" alt="pallavi-pandey" height=25px width=160px/> 
 </p>
 
-<p align="center">
-	<a href="https://github.com/Pallavi-Pandey">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Data+Science+Explorer;Critical+Thinker;Passionate+Learner;Crafting+Ideas&center=true&width=500&height=50">
-	</a>
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+
+- 🎓 Pursuing BS in `Data Science and Programming` from `IIT Madras`
+- 🚀 Open to collaborating on `Python`, `LLM`, and `Data Science` projects
+- 💻 Experienced with `Web Dev`, `ML`, and full-stack `Software Development`
+- 🌱 Currently exploring `Deep Learning`, `AI`, and building scalable apps
+- 💬 Ask me about `Data Science`, `Software Dev`, `Python`, `Web Dev`, and `LLMs`
+- 🎧 Fun fact: Music 🎵 boosts my productivity while coding
+- 📧 Reach me at: **[pallavipandey181@gmail.com](mailto:pallavipandey181@gmail.com)**
+- 🌐 Portfolio: [pallavipandey.me](https://pallavipandey.me)
+
+<br>
+
+## 🛠️ My Skills
+
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming Languages
+<p align="center"> 
+  <img alt="Python" src="https://img.shields.io/badge/Python-%239D7DFF.svg?style=plastic&logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23FCD34D.svg?style=plastic&logo=javascript&logoColor=black">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23D946EF.svg?style=plastic&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%236B21A8.svg?style=plastic&logo=css3&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%238B5CF6.svg?style=plastic&logo=sqlite&logoColor=white">
 </p>
 
----
-
-## 💡 About Me  
-
-- 🎓 Pursuing **BS in Data Science and Programming** from **IIT Madras**  
-- 🚀 I’m open to collaborating on **Python-based Open Source** and **Data Science Projects**  
-- 💻 I have experience with **Web Development**, **Machine Learning**, and **Software Development Applications**  
-- 🌱 Currently exploring **Deep Learning**, **AI**, **LLM** and building scalable applications  
-- 🎯 **Portfolio**: [pallavipandey.me](https://pallavipandey.me)  
-- 💬 Ask me about **Data Science, Software Development, Python, LLM, Web Development, and DBMS**  
-- 🎧 Fun fact: *Music while coding boosts my productivity 🎵*  
-- 📧 Reach me at: **[pallavipandey181@gmail.com](mailto:pallavipandey181@gmail.com)**  
-
----
-
-## 🛠️ Skills & Tools  
-
-### 🔹 Programming Languages:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔹 Libraries & Databases:  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔹 Frameworks:  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### 🔹 Tools & Platforms:  
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects  
-
-Here are some of my favorite projects that I have worked on:  
-
-1. **🌟 Music App** (Flask & JS)  
-   A full-featured music streaming app with user authentication and dynamic UI.  
-   - **Tech Stack**: Flask, JavaScript, HTML/CSS  
-
-2. **📊 Stock Price Analyzer**  
-   Built a tool for financial data analysis and visualization of stock prices.  
-   - **Tech Stack**: Python, Pandas, Matplotlib  
-
-3. **🛒 E-Commerce Platform**  
-   Developed an interactive e-commerce website with integrated payment solutions.  
-   - **Tech Stack**: Flask, Vue.js, SQLAlchemy  
-
-🔗 **Check out more projects**: [GitHub Projects](https://github.com/Pallavi-Pandey?tab=repositories)  
-
----
-
-## 🏆 Achievements & Trophies  
-
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=Pallavi-Pandey&theme=gruvbox&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies">
-	</a>
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> </picture> Libraries, Frameworks & Tools
+<p align="center"> 
+  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-%235B21B6.svg?style=plastic&logo=numpy&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%237C3AED.svg?style=plastic&logo=pandas&logoColor=white">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23C084FC.svg?style=plastic&logo=streamlit&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-%234B5563.svg?style=plastic&logo=flask&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-%236B7280.svg?style=plastic&logo=django&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-%2385A2F8.svg?style=plastic&logo=react&logoColor=white">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2395BBF2.svg?style=plastic&logo=vue.js&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%238B5CF6.svg?style=plastic&logo=postgresql&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%235D3FD3.svg?style=plastic&logo=sqlite&logoColor=white">
 </p>
 
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Tools & IDEs
+<p align="center">
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-%237C3AED.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23FBBF24.svg?style=plastic&logo=jupyter&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%238B5CF6.svg?style=plastic&logo=github&logoColor=white">
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%239D7DFF.svg?style=plastic&logo=heroku&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-%23A855F7.svg?style=plastic&logo=postman&logoColor=white">
+</p>
+
+<br>
+
+## 🚀 Featured Projects
+
+### 🌟 Music App (Flask & JS)
+> A full-featured music streaming app with user authentication and dynamic UI  
+**Tech Stack**: Flask, JavaScript, HTML/CSS
+
+### 📊 Stock Price Analyzer
+> Built a tool for financial data analysis and visualization of stock prices  
+**Tech Stack**: Python, Pandas, Matplotlib
+
+### 🛒 E-Commerce Platform
+> Developed an interactive e-commerce website with integrated payment solutions  
+**Tech Stack**: Flask, Vue.js, SQLAlchemy
+
+👉 [Explore more projects on GitHub](https://github.com/pallavi-pandey)
+
 ---
 
-## 📊 My GitHub Stats  
+## 🏆 Achievements & GitHub Stats
 
 <p align="center">
-	<a href="https://github.com/Pallavi-Pandey">
-		<img src="https://github-readme-stats.vercel.app/api?username=Pallavi-Pandey&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49.5%"/>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pallavi-Pandey&theme=tokyonight" alt="Streak Stats" width="49.5%"/>
-	</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=pallavi-pandey&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+### 💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavi-pandey&show_icons=true&theme=radical" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-pandey&layout=compact&theme=radical" height="200px"/>
+</p>
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pallavi-pandey&theme=purple-dark" />
 </p>
 
 ---
 
-## 🌟 Top Languages  
+## 🌐 Connect with Me
 
 <p align="center">
-	<a href="https://github.com/Pallavi-Pandey">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-Pandey&langs_count=8&layout=compact&theme=tokyonight&card_width=445" width="60%" alt="Top Languages">
-	</a>
+  <a href="mailto:pallavipandey181@gmail.com"><img src="https://img.shields.io/badge/gmail-%239D7DFF.svg?style=plastic&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/pallavi-pandey"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pallavipandey18/"><img src="https://img.shields.io/badge/linkedin-%238B5CF6.svg?style=plastic&logo=linkedin&logoColor=white" /></a>
+  <a href="https://pallavipandey.me"><img src="https://img.shields.io/badge/portfolio-%239D7DFF.svg?style=plastic&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🌐 Connect With Me   
-
 <p align="center">
-	<a href="mailto:pallavipandey181@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-	</a>
-	<a href="https://www.linkedin.com/in/pallavi-pandey-023/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-	</a>
-	<a href="https://github.com/Pallavi-Pandey">
-		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-	</a>
-	<a href="https://pallavipandey.me" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-00A86B?style=for-the-badge&logo=webflow&logoColor=white" alt="Portfolio">
-	</a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=purple" />
 </p>
 
 ---
 
-## ⚡ Fun Fact  
-> *"Everybody should learn to program a computer because it teaches you how to think."*  
-> — *Steve Jobs*
-
----
-
-### 💬 Feedback  
-If you have ideas or suggestions for improvement, feel free to reach out! 😊
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
