@@ -115,9 +115,9 @@
 </p>
 
 ---
+## 📅 GitHub Contribution Calendar
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavi-pandey&bg_color=0d1117&color=bd93f9&line=8be9fd&point=ff79c6&area=true&hide_border=true" />
 </p>
+
