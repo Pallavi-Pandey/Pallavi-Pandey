@@ -95,8 +95,9 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pallavi-pandey&theme=purple-dark" />
+  <img src="https://streak-stats.demolab.com?user=pallavi-pandey&theme=purple-dark" alt="GitHub Streak" />
 </p>
+
 
 
 ## 🌐 Connect with Me
