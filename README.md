@@ -23,7 +23,6 @@
 - 💬 Ask me about `Data Science`, `Software Dev`, `Python`, `Web Dev`, and `LLMs`
 - 🎧 Fun fact: Music 🎵 boosts my productivity while coding
 - 📧 Reach me at: **[pallavipandey181@gmail.com](mailto:pallavipandey181@gmail.com)**
-- 🌐 Portfolio: [pallavipandey.me](https://pallavipandey.me)
 
 <br>
 
