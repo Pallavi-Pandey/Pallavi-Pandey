@@ -18,7 +18,7 @@
 
 - 🎓 Pursuing BS in `Data Science and Programming` from `IIT Madras`
 - 🚀 Open to collaborating on `Python`, `LLM`, and `Data Science` projects
-- 💻 Experienced with `Web Dev`, `ML`, and full-stack `Software Development`
+- 💻 Experienced with `Siftware Development`, `ML`, and full-stack `Software Development`
 - 🌱 Currently exploring `Deep Learning`, `AI`, and building scalable apps
 - 💬 Ask me about `Data Science`, `Software Dev`, `Python`, `Web Dev`, and `LLMs`
 - 🎧 Fun fact: Music 🎵 boosts my productivity while coding
