@@ -105,7 +105,7 @@
 <p align="center">
   <a href="mailto:pallavipandey181@gmail.com"><img src="https://img.shields.io/badge/gmail-%239D7DFF.svg?style=plastic&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/pallavi-pandey"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pallavipandey18/"><img src="https://img.shields.io/badge/linkedin-%238B5CF6.svg?style=plastic&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pallavipandey181/"><img src="https://img.shields.io/badge/linkedin-%238B5CF6.svg?style=plastic&logo=linkedin&logoColor=white" /></a>
   <a href="https://pallavipandey.me"><img src="https://img.shields.io/badge/portfolio-%239D7DFF.svg?style=plastic&logo=google-chrome&logoColor=white" /></a>
 </p>
 
