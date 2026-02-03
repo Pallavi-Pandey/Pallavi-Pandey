@@ -142,7 +142,7 @@ https://github.com/pallavi-pandey
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/pallavipp_023">
-    <img src="https://skillicons.dev/icons?i=x" height="45" />
+    <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/pallavi023">
