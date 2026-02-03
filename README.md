@@ -142,7 +142,7 @@ https://github.com/pallavi-pandey
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/pallavipp_023">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+    <img src="https://skillicons.dev/icons?i=x" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/pallavi023">
