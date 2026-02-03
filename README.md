@@ -142,11 +142,11 @@ https://github.com/pallavi-pandey
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/pallavipp_023">
-    <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white" height="45" />
+    <img src="./x.svg" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/pallavi023">
-    <img src="https://img.shields.io/badge/-%20-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="45" />
+    <img src="./kaggle.svg" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://pallavipandey.vercel.app/">
