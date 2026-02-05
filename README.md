@@ -24,19 +24,19 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- 🎓 Pursuing a **Bachelor of Science in Data Science and Programming** at **IIT Madras**
-- 🚀 Open to collaborating on **Python**, **Large Language Models (LLMs)**, and **Data Science** projects
-- 💻 Hands-on experience in **Software Development**, **Machine Learning**, and **Full-Stack Application Development**
-- 🌱 Currently exploring **Deep Learning**, **AI systems**, and building **scalable, production-ready applications**
-- 💬 Ask me about **Data Science**, **Software Development**, **Python**, **Web Development**, and **LLMs**
-- 🎧 Fun fact: Music helps me stay focused and productive while coding
-- 📧 Reach me at: **[pallavipandey181@gmail.com](mailto:pallavipandey181@gmail.com)**
+- Pursuing a **Bachelor of Science in Data Science and Programming** at **IIT Madras**
+- Open to collaborating on **Python**, **Large Language Models (LLMs)**, and **Data Science** projects
+- Hands-on experience in **Software Development**, **Machine Learning**, and **Full-Stack Application Development**
+- Currently exploring **Deep Learning**, **AI systems**, and building **scalable, production-ready applications**
+- Ask me about **Data Science**, **Software Development**, **Python**, **Web Development**, and **LLMs**
+- Fun fact: Music helps me stay focused and productive while coding
+- Reach me at: **[pallavipandey181@gmail.com](mailto:pallavipandey181@gmail.com)**
 
 <br>
 
 ---
 
-## 🛠️ My Skills
+## My Skills
 
 ### <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px">
