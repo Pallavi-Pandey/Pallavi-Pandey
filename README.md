@@ -96,22 +96,22 @@
 > A data analysis and visualization tool for exploring stock market trends  
 **Tech Stack:** Python, Pandas, Matplotlib
 
-### 🛒 E-Commerce Platform
+### E-Commerce Platform
 > An interactive e-commerce web application with integrated payment workflows  
 **Tech Stack:** Flask, Vue.js, SQLAlchemy
 
-👉 **Explore more projects on GitHub:**  
+**Explore more projects on GitHub:**  
 https://github.com/pallavi-pandey
 
 ---
 
-## 🏆 Achievements & GitHub Stats
+## Achievements & GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pallavi-pandey&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
-### 💻 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pallavi-pandey&show_icons=true&theme=radical" height="200px"/>
@@ -162,7 +162,7 @@ https://github.com/pallavi-pandey
 
 ---
 
-## 📅 GitHub Contribution Activity
+## GitHub Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavi-pandey&bg_color=0d1117&color=bd93f9&line=8be9fd&point=ff79c6&area=true&hide_border=true" />
