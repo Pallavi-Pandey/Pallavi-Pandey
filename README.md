@@ -86,13 +86,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌟 Music Streaming Application
+### Music Streaming Application
 > A full-featured music streaming platform with user authentication and a dynamic UI  
 **Tech Stack:** Flask, JavaScript, HTML, CSS
 
-### 📊 Stock Price Analyzer
+### Stock Price Analyzer
 > A data analysis and visualization tool for exploring stock market trends  
 **Tech Stack:** Python, Pandas, Matplotlib
 
