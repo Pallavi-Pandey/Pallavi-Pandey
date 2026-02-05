@@ -118,7 +118,7 @@ https://github.com/pallavi-pandey
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-pandey&layout=compact&theme=radical" height="200px"/>
 </p>
 
-### 🔥 GitHub Streak
+### GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pallavi-pandey&theme=purple-dark" />
@@ -126,7 +126,7 @@ https://github.com/pallavi-pandey
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:pallavipandey181@gmail.com">
