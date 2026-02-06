@@ -24,19 +24,19 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- 🎓 Pursuing a **Bachelor of Science in Data Science and Programming** at **IIT Madras**
-- 🚀 Open to collaborating on **Python**, **Large Language Models (LLMs)**, and **Data Science** projects
-- 💻 Hands-on experience in **Software Development**, **Machine Learning**, and **Full-Stack Application Development**
-- 🌱 Currently exploring **Deep Learning**, **AI systems**, and building **scalable, production-ready applications**
-- 💬 Ask me about **Data Science**, **Software Development**, **Python**, **Web Development**, and **LLMs**
-- 🎧 Fun fact: Music helps me stay focused and productive while coding
-- 📧 Reach me at: **[pallavipandey181@gmail.com](mailto:pallavipandey181@gmail.com)**
+- Pursuing a **Bachelor of Science in Data Science and Programming** at **IIT Madras**
+- Open to collaborating on **Python**, **Large Language Models (LLMs)**, and **Data Science** projects
+- Hands-on experience in **Software Development**, **Machine Learning**, and **Full-Stack Application Development**
+- Currently exploring **Deep Learning**, **AI systems**, and building **scalable, production-ready applications**
+- Ask me about **Data Science**, **Software Development**, **Python**, **Web Development**, and **LLMs**
+- Fun fact: Music helps to stay focused and productive while coding
+- Reach me at: **[pallavipandey181@gmail.com](mailto:pallavipandey181@gmail.com)**
 
 <br>
 
 ---
 
-## 🛠️ My Skills
+## My Skills
 
 ### <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px">
@@ -86,39 +86,39 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌟 Music Streaming Application
+### Music Streaming Application
 > A full-featured music streaming platform with user authentication and a dynamic UI  
 **Tech Stack:** Flask, JavaScript, HTML, CSS
 
-### 📊 Stock Price Analyzer
+### Stock Price Analyzer
 > A data analysis and visualization tool for exploring stock market trends  
 **Tech Stack:** Python, Pandas, Matplotlib
 
-### 🛒 E-Commerce Platform
+### E-Commerce Platform
 > An interactive e-commerce web application with integrated payment workflows  
 **Tech Stack:** Flask, Vue.js, SQLAlchemy
 
-👉 **Explore more projects on GitHub:**  
+**Explore more projects on GitHub:**  
 https://github.com/pallavi-pandey
 
 ---
 
-## 🏆 Achievements & GitHub Stats
+## Achievements & GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pallavi-pandey&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
-### 💻 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pallavi-pandey&show_icons=true&theme=radical" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-pandey&layout=compact&theme=radical" height="200px"/>
 </p>
 
-### 🔥 GitHub Streak
+### GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pallavi-pandey&theme=purple-dark" />
@@ -126,20 +126,31 @@ https://github.com/pallavi-pandey
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:pallavipandey181@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%239D7DFF.svg?style=plastic&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/pallavi-pandey">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pallavi181/">
-    <img src="https://img.shields.io/badge/LinkedIn-%238B5CF6.svg?style=plastic&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/pallavipp_023">
+    <img src="./x.svg" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/pallavi023">
+    <img src="./kaggle.svg" height="45" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://pallavipandey.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%239D7DFF.svg?style=plastic&logo=google-chrome&logoColor=white" />
+    <img src="./icon.svg" height="45" />
   </a>
 </p>
 
@@ -151,7 +162,7 @@ https://github.com/pallavi-pandey
 
 ---
 
-## 📅 GitHub Contribution Activity
+## GitHub Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavi-pandey&bg_color=0d1117&color=bd93f9&line=8be9fd&point=ff79c6&area=true&hide_border=true" />
