@@ -29,7 +29,7 @@
 - Hands-on experience in **Software Development**, **Machine Learning**, and **Full-Stack Application Development**
 - Currently exploring **Deep Learning**, **AI systems**, and building **scalable, production-ready applications**
 - Ask me about **Data Science**, **Software Development**, **Python**, **Web Development**, and **LLMs**
-- Fun fact: Music helps me stay focused and productive while coding
+- Fun fact: Music helps to stay focused and productive while coding
 - Reach me at: **[pallavipandey181@gmail.com](mailto:pallavipandey181@gmail.com)**
 
 <br>
