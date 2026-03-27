@@ -88,20 +88,41 @@
 
 ## Featured Projects
 
-### Music Streaming Application
-> A full-featured music streaming platform with user authentication and a dynamic UI  
+### [AI Voice Assistant](https://github.com/Pallavi-Pandey/ai-voice-assistant)
+> A smart, voice-controlled assistant with real-time speech processing and natural language understanding.  
+**Tech Stack:** Python, OpenAI Whisper, Google Gemini, Pygame
+
+### [MERN Booking Application](https://github.com/Pallavi-Pandey/mern-booking-app)
+> A comprehensive full-stack hotel booking platform with secure authentication and interactive dashboards.  
+**Tech Stack:** MongoDB, Express, React, Node.js
+
+### [AI Healthcare System](https://github.com/Pallavi-Pandey/ai-healthcare)
+> Multimodal clinical AI pipeline for automated medical reporting and speech-to-text diagnostics.  
+**Tech Stack:** Python, FastAPI, RAG, NLP
+
+### [Music Streaming Application](https://github.com/Pallavi-Pandey/musicstan-app)
+> A full-featured music streaming platform with user authentication and a dynamic UI.  
 **Tech Stack:** Flask, JavaScript, HTML, CSS
 
-### Stock Price Analyzer
-> A data analysis and visualization tool for exploring stock market trends  
-**Tech Stack:** Python, Pandas, Matplotlib
+### [Stock Price Analyzer](https://github.com/Pallavi-Pandey/lstm-stock-prediction)
+> Advanced data analysis and visualization tool for exploring stock market trends using LSTM models.  
+**Tech Stack:** Python, Pandas, Matplotlib, TensorFlow
 
-### E-Commerce Platform
-> An interactive e-commerce web application with integrated payment workflows  
+### [E-Commerce Platform](https://github.com/Pallavi-Pandey/unique-mart-ecommerce)
+> An interactive e-commerce web application with integrated payment workflows and sales forecasting.  
 **Tech Stack:** Flask, Vue.js, SQLAlchemy
 
-**Explore more projects on GitHub:**  
-https://github.com/pallavi-pandey
+---
+
+## Technical Portfolio: 87 Organized Repositories
+
+I recently completed a massive reorganization of my GitHub workspace. All **87+ repositories** are now:
+- ✅ **Standardized**: Consistently named using `kebab-case` for professional organization.
+- ✅ **Documented**: 100% README coverage with technical overviews and setup guides.
+- ✅ **Synchronized**: All projects are fully up-to-date and live on GitHub.
+
+**Explore the full catalog:**  
+[View all repositories](https://github.com/Pallavi-Pandey?tab=repositories)
 
 ---
 
