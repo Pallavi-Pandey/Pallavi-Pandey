@@ -90,8 +90,8 @@
 ## Featured Projects
 
 ### [AI Voice Assistant](https://github.com/Pallavi-Pandey/ai-voice-assistant)
-> A smart, voice-controlled assistant with real-time speech processing and natural language understanding.  
-**Tech Stack:** Python, OpenAI Whisper, Google Gemini, Pygame
+> A real-time AI voice agent for an auto service call center — handles VIN lookups, customer profile creation, and call routing entirely by voice.  
+**Tech Stack:** Python, LiveKit, Groq (Whisper STT + Llama 3.3 LLM), ElevenLabs TTS, SQLite
 
 ### [MERN Booking Application](https://github.com/Pallavi-Pandey/mern-booking-app)
 > A comprehensive full-stack hotel booking platform with secure authentication and interactive dashboards.  
